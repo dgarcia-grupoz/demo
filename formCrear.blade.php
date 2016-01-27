@@ -6,5 +6,3 @@
  	<br><br>
 </div>
 <br>
-
-Editar archivo
